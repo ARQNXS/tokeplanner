@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tokeplanner/static/css/main.e6c13ad2.css",
+    "main.js": "/tokeplanner/static/js/main.b47437de.js",
+    "static/js/239.c2844d70.chunk.js": "/tokeplanner/static/js/239.c2844d70.chunk.js",
+    "static/js/213.34241001.chunk.js": "/tokeplanner/static/js/213.34241001.chunk.js",
+    "static/js/732.0593b285.chunk.js": "/tokeplanner/static/js/732.0593b285.chunk.js",
+    "static/js/453.c3463b8d.chunk.js": "/tokeplanner/static/js/453.c3463b8d.chunk.js",
+    "index.html": "/tokeplanner/index.html",
+    "main.e6c13ad2.css.map": "/tokeplanner/static/css/main.e6c13ad2.css.map",
+    "main.b47437de.js.map": "/tokeplanner/static/js/main.b47437de.js.map",
+    "239.c2844d70.chunk.js.map": "/tokeplanner/static/js/239.c2844d70.chunk.js.map",
+    "213.34241001.chunk.js.map": "/tokeplanner/static/js/213.34241001.chunk.js.map",
+    "732.0593b285.chunk.js.map": "/tokeplanner/static/js/732.0593b285.chunk.js.map",
+    "453.c3463b8d.chunk.js.map": "/tokeplanner/static/js/453.c3463b8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b47437de.js"
+  ]
+}
