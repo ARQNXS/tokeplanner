@@ -1,4 +1,4 @@
-# Tokenomics Planner
+# TokePlanner
 
 TokePlanner is a web application designed to help you plan and simulate tokenomics for your blockchain projects. It allows you to create token distribution plans, simulate market conditions, and generate key performance indicators (KPIs) for your project.
 
